@@ -15,3 +15,5 @@ devops project
 
 [![CI](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml/badge.svg)](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml)
 
+[![CI](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml/badge.svg?branch=main&event=status)](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml)
+

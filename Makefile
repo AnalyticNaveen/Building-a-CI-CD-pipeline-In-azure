@@ -5,7 +5,7 @@ install:
 		pip install -r requirements.txt
 
 lint:
-	pylint --disbale=R,C hello.py
+	pylint --disable=R,C hello.py
 
 
 test:

@@ -13,3 +13,5 @@ change 1
 
 devops project 
 
+[![CI](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml/badge.svg)](https://github.com/AnalyticNaveen/Building-a-CI-CD-pipeline-In-azure/actions/workflows/main.yml)
+
